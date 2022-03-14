@@ -9,7 +9,7 @@ public class GFG {
  
         // Input character and string
         char a = 's';
-        String str = "GeeksforGeek";
+        String str = "Children";
  
         // Inserting at the end
         String str2 = str + a;
